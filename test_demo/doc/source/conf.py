@@ -59,3 +59,5 @@ html_context = {
     "github_version": "dev",  # Version
     "conf_py_path": "/source/",  # Path in the checkout to the docs root
 }
+
+master_doc = 'index'
